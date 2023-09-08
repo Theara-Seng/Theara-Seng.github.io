@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[My CV](https://theara-seng.github.io/file/mycv.pdf)
+[My CV](https://theara-seng.github.io/files/mycv.pdf)
 
